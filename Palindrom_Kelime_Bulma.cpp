@@ -33,7 +33,7 @@ int main() {
 	else {
 		cout << "Kelime palindrom değildir!" << endl;
 	}
-
+	return 0;
 
 
 }
